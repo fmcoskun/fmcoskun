@@ -11,7 +11,6 @@ I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning lan
 * *️⃣ P5.js
 * 🔷 Photoshop
 
-- 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning P5.js, Canvas 
 
 
