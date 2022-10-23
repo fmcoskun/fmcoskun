@@ -1,10 +1,15 @@
-### Hi there 👋, Fatih Murat
-#### Design and Development
 ![Design and Development](https://media-exp1.licdn.com/dms/image/D4D16AQEZDT0XkZ2bkw/profile-displaybackgroundimage-shrink_350_1400/0/1666037119916?e=1672272000&v=beta&t=5u3XI-MKp_-n-asX_6Pi7RwrZSnDbKYXimsxvrJ5RQI)
+
+# Fatih Murat COSKUN
 
 I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. I also enjoy using photoshop, UI, UX and desing in general. 
 
-Skills: REACT / JavaScript / HTML / CSS / Bootstrap / Photoshop
+# Skills and Experience
+
+* ⚛️ React
+* 🌐 JavaScript / HTML / CSS / Bootstrap
+* *️⃣ P5.js
+* 🔷 Photoshop
 
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning P5.js, Canvas 
