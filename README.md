@@ -9,7 +9,7 @@ I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning lan
 * ⚛️ React
 * 🌐 JavaScript / HTML / CSS / Bootstrap
 * *️⃣ P5.js
-* 🔷 Photoshop
+* 🅿️ Photoshop
 
 - 🌱 I’m currently learning P5.js, Canvas 
 
