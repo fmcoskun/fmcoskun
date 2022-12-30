@@ -1,4 +1,5 @@
-![Design and Development](https://media-exp1.licdn.com/dms/image/D4D16AQEZDT0XkZ2bkw/profile-displaybackgroundimage-shrink_350_1400/0/1666037119916?e=1672272000&v=beta&t=5u3XI-MKp_-n-asX_6Pi7RwrZSnDbKYXimsxvrJ5RQI)
+![bg image](https://user-images.githubusercontent.com/107512348/210103824-40335a52-68d0-4112-8686-c8aac08cb5d6.png)
+
 
 # Fatih Murat COSKUN
 
