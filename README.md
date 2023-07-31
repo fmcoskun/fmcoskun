@@ -1,4 +1,4 @@
-![bg image](https://media.licdn.com/dms/image/D4D16AQHN90wGOpT91Q/profile-displaybackgroundimage-shrink_350_1400/0/1685922964614?e=1691625600&v=beta&t=ZRpwqGiqpXZ31Izny7VKnkMzxpbWRTAURg4CwyTsPa8)
+![bg image](https://media.licdn.com/dms/image/D4E16AQElHyLOeH0Ulg/profile-displaybackgroundimage-shrink_350_1400/0/1690838100891?e=1696464000&v=beta&t=q5vqg7IiBYkYoEW0rpZA5oLCVPjzyRdI6jf9nIeFthA)
 
 
 # Fatih Murat COSKUN
