@@ -2,7 +2,7 @@
 
 
 # Fatih Murat COSKUN
-I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. 
+I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. I also enjoy using Photoshop, Illustrator, Blender, UI, UX and desing in general. 
 <br/>
 
 # Education
