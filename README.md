@@ -1,8 +1,9 @@
-![bg image](https://media.licdn.com/dms/image/D4E16AQElHyLOeH0Ulg/profile-displaybackgroundimage-shrink_350_1400/0/1690838100891?e=1696464000&v=beta&t=q5vqg7IiBYkYoEW0rpZA5oLCVPjzyRdI6jf9nIeFthA)
+![bg image]([https://media.licdn.com/dms/image/D4E16AQElHyLOeH0Ulg/profile-displaybackgroundimage-shrink_350_1400/0/1690838100891?e=1696464000&v=beta&t=q5vqg7IiBYkYoEW0rpZA5oLCVPjzyRdI6jf9nIeFthA](https://www.linkedin.com/in/fmcoskun/overlay/background-image/))
 
 
 # Fatih Murat COSKUN
-[<img src='https://www.istanbul.edu.tr/css/theme/default/img/logo/iu.png'>] Istanbul University Computer Programming Associate Degree Program
+<img src='https://www.istanbul.edu.tr/css/theme/default/img/logo/iu.png'> 
+Istanbul University Computer Programming Associate Degree Program
 
 I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. I also enjoy using photoshop, UI, UX and desing in general. 
 
