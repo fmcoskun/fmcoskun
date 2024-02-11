@@ -7,6 +7,17 @@ Istanbul University Computer Programming Associate Degree Program
 
 I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. I also enjoy using photoshop, UI, UX and desing in general. 
 
+# Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/html5/html5-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/css3/css3-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/react/react-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://jsdelivr.net/gh/devicion/icons/github/github-original.svg" />
+
 # Skills and Experience
 
 * ⚛️ React
