@@ -1,13 +1,17 @@
-![bg image]([https://media.licdn.com/dms/image/D4E16AQElHyLOeH0Ulg/profile-displaybackgroundimage-shrink_350_1400/0/1690838100891?e=1696464000&v=beta&t=q5vqg7IiBYkYoEW0rpZA5oLCVPjzyRdI6jf9nIeFthA](https://www.linkedin.com/in/fmcoskun/overlay/background-image/))
+<img align="center" src="https://media.licdn.com/dms/image/D4E16AQElHyLOeH0Ulg/profile-displaybackgroundimage-shrink_350_1400/0/1690838102975?e=1713398400&v=beta&t=eNlgfsdL_PPrgNUtyeeBWbcInuRXvq2pAty1jxT403E" />
 
 
 # Fatih Murat COSKUN
 I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning languages and frameworks like React and React Native. I do content on Design and development. 
-# EDUCATION
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src='https://www.istanbul.edu.tr/css/theme/default/img/logo/iu.png'> Istanbul University Computer Programming Associate Degree Program
+<br/>
 
+# Education
+<img align="left" width="50px" style="padding-right:10px;" src='https://www.istanbul.edu.tr/css/theme/default/img/logo/iu.png'>
+<h2>Istanbul University Computer Programming Associate Degree Program</h2>
+<img align="left" width="120px" height="50px" style="padding-right:10px;" src='https://www.anadolu.edu.tr/assets/img/headerLogoWhite_en.png'>
+<h2>Anadolu University Faculty of Business Administration</h2>
 
-
+<br/>
 
 # Languages and Tools
 <!-- https://devicon.dev/ -->
@@ -26,9 +30,10 @@ I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning lan
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<br>
 
-# Skills and Experience
+<br>
+<h1> </h1>
+<h1>Skills and Experience</h1>
 
 * COMPUTER HARDWARE
 * OPERATING SYSTEMS
@@ -36,7 +41,9 @@ I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning lan
 * MOBILE PROGRAMMING
 * PL/SQL DATABASE PROGRAMMING
 * INFORMATION TECHNOLOGIES 
+<h1> </h1>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fmcoskun)  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fmcoskun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fmcoskun)  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-plain-wordmark.svg' alt='repl-dot-it' height='40'>](https://replit.com/@fmcoskun)  
+[<img src='https://media.licdn.com/dms/image/D4D2DAQFSto8GknLxPQ/profile-treasury-image-shrink_800_800/0/1685923943844?e=1708282800&v=beta&t=l-MP9a1pR-lFCoIokzA00psXgWQhdFjYqdJXzznZlk4' alt='github' height='40'>](https://github.com/fmcoskun)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fmcoskun/)
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg' alt='repl-dot-it' height='40'>](https://replit.com/@fmcoskun)  
 
