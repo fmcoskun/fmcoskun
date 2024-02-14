@@ -28,6 +28,7 @@ I'm Fatih from Turkey. I'm working as an IT manager. I really enjoy learning lan
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img align="left" width="40px" style="padding-right:10px;" src="https://blog.logomyway.com/wp-content/uploads/2023/08/chatgpt-logo-696x406.png" />
 
 <br>
 <h1> </h1>
