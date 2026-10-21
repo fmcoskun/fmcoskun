@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Fatih%20Murat%20Co%C5%9Fkun&fontSize=42&fontColor=ffffff&desc=IT%20Manager%20%7C%20AI-Powered%20Automation&descAlignY=62&descSize=18" alt="Fatih Murat Coşkun — IT Manager | AI-Powered Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:34e834&height=180&section=header&text=Fatih%20Murat%20Co%C5%9Fkun&fontSize=42&fontColor=ffffff&desc=IT%20Manager%20%7C%20AI-Powered%20Automation&descAlignY=62&descSize=18" alt="Fatih Murat Coşkun — IT Manager | AI-Powered Automation" />
 
 ## 👋 About Me
 
@@ -60,4 +60,4 @@ I'm an **IT Manager** with **10+ years of experience** in information technology
   <a href="https://replit.com/@fmcoskun"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34e834,50:0d0d0d,100:000000&height=100&section=footer" alt="" />
