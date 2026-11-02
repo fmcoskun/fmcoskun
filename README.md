@@ -52,6 +52,8 @@ I'm an **IT Manager** with **10+ years of experience** in information technology
   </tr>
 </table>
 
+<!-- REPOS:START -->
+
 ## 📦 Public Repositories
 
 Sorted by creation date, newest first (oluşturulma tarihine göre, en yeniden en eskiye).
@@ -75,6 +77,8 @@ Sorted by creation date, newest first (oluşturulma tarihine göre, en yeniden e
 | 2022-12-29 | [Digital-Agency-Website](https://github.com/fmcoskun/Digital-Agency-Website) |
 | 2022-12-26 | [Personal-Portfolio](https://github.com/fmcoskun/Personal-Portfolio) |
 | 2022-10-23 | [fmcoskun](https://github.com/fmcoskun/fmcoskun) |
+
+<!-- REPOS:END -->
 
 ## 🤝 Connect
 
