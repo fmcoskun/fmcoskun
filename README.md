@@ -60,6 +60,7 @@ Sorted by creation date, newest first (oluşturulma tarihine göre, en yeniden e
 
 | Created | Repository |
 |---|---|
+| 2026-11-06 | [cityscene-web](https://github.com/fmcoskun/cityscene-web) |
 | 2026-10-31 | [fmcoskun-orbital-portfolio](https://github.com/fmcoskun/fmcoskun-orbital-portfolio) |
 | 2026-10-30 | [fmcoskun-studio](https://github.com/fmcoskun/fmcoskun-studio) |
 | 2026-10-30 | [crystal-sphere-showcase](https://github.com/fmcoskun/crystal-sphere-showcase) |
